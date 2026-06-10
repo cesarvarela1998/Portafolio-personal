@@ -1,0 +1,50 @@
+EmployeeID,nombre,BirthDate,Address,City,PostalCode,territory,region,N
+1,Nancy Davolio,08/12/1948 00:00,507 - 20th Ave. E.  Apt. 2A,Seattle,98122,Wilton,Eastern,1
+1,Nancy Davolio,08/12/1948 00:00,507 - 20th Ave. E.  Apt. 2A,Seattle,98122,Neward,Eastern,2
+2,Andrew Fuller,19/02/1952 00:00,908 W. Capital Way,Tacoma,98401,Westboro,Eastern,1
+2,Andrew Fuller,19/02/1952 00:00,908 W. Capital Way,Tacoma,98401,Bedford,Eastern,2
+2,Andrew Fuller,19/02/1952 00:00,908 W. Capital Way,Tacoma,98401,Georgetow,Eastern,3
+2,Andrew Fuller,19/02/1952 00:00,908 W. Capital Way,Tacoma,98401,Boston,Eastern,4
+2,Andrew Fuller,19/02/1952 00:00,908 W. Capital Way,Tacoma,98401,Cambridge,Eastern,5
+2,Andrew Fuller,19/02/1952 00:00,908 W. Capital Way,Tacoma,98401,Braintree,Eastern,6
+2,Andrew Fuller,19/02/1952 00:00,908 W. Capital Way,Tacoma,98401,Louisville,Eastern,7
+3,Janet Leverling,30/08/1963 00:00,722 Moss Bay Blvd.,Kirkland,98033,Atlanta,Southern,1
+3,Janet Leverling,30/08/1963 00:00,722 Moss Bay Blvd.,Kirkland,98033,Savannah,Southern,2
+3,Janet Leverling,30/08/1963 00:00,722 Moss Bay Blvd.,Kirkland,98033,Orlando,Southern,3
+3,Janet Leverling,30/08/1963 00:00,722 Moss Bay Blvd.,Kirkland,98033,Tampa,Southern,4
+4,Margaret Peacock,19/09/1937 00:00,4110 Old Redmond Rd.,Redmond,98052,Rockville,Eastern,1
+4,Margaret Peacock,19/09/1937 00:00,4110 Old Redmond Rd.,Redmond,98052,Greensboro,Eastern,2
+4,Margaret Peacock,19/09/1937 00:00,4110 Old Redmond Rd.,Redmond,98052,Cary,Eastern,3
+5,Steven Buchanan,04/03/1955 00:00,14 Garrett Hill,London,SW1 8JR,Providence,Eastern,1
+5,Steven Buchanan,04/03/1955 00:00,14 Garrett Hill,London,SW1 8JR,Morristown,Eastern,2
+5,Steven Buchanan,04/03/1955 00:00,14 Garrett Hill,London,SW1 8JR,Edison,Eastern,3
+5,Steven Buchanan,04/03/1955 00:00,14 Garrett Hill,London,SW1 8JR,New York,Eastern,4
+5,Steven Buchanan,04/03/1955 00:00,14 Garrett Hill,London,SW1 8JR,New York,Eastern,5
+5,Steven Buchanan,04/03/1955 00:00,14 Garrett Hill,London,SW1 8JR,Mellvile,Eastern,6
+5,Steven Buchanan,04/03/1955 00:00,14 Garrett Hill,London,SW1 8JR,Fairport,Eastern,7
+6,Michael Suyama,02/07/1963 00:00,Coventry House  Miner Rd.,London,EC2 7JR,Phoenix,Western,1
+6,Michael Suyama,02/07/1963 00:00,Coventry House  Miner Rd.,London,EC2 7JR,Scottsdale,Western,2
+6,Michael Suyama,02/07/1963 00:00,Coventry House  Miner Rd.,London,EC2 7JR,Bellevue,Western,3
+6,Michael Suyama,02/07/1963 00:00,Coventry House  Miner Rd.,London,EC2 7JR,Redmond,Western,4
+6,Michael Suyama,02/07/1963 00:00,Coventry House  Miner Rd.,London,EC2 7JR,Seattle,Western,5
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Hoffman Estates,Western,1
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Chicago,Western,2
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Denver,Western,3
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Colorado Springs,Western,4
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Santa Monica,Western,5
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Menlo Park,Western,6
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,San Francisco,Western,7
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Campbell,Western,8
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Santa Clara,Western,9
+7,Robert King,29/05/1960 00:00,Edgeham Hollow  Winchester Way,London,RG1 9SP,Santa Cruz,Western,10
+8,Laura Callahan,09/01/1958 00:00,4726 - 11th Ave. N.E.,Seattle,98105,Philadelphia,Northern,1
+8,Laura Callahan,09/01/1958 00:00,4726 - 11th Ave. N.E.,Seattle,98105,Beachwood,Northern,2
+8,Laura Callahan,09/01/1958 00:00,4726 - 11th Ave. N.E.,Seattle,98105,Findlay,Northern,3
+8,Laura Callahan,09/01/1958 00:00,4726 - 11th Ave. N.E.,Seattle,98105,Racine,Northern,4
+9,Anne Dodsworth,27/01/1966 00:00,7 Houndstooth Rd.,London,WG2 7LT,Hollis,Northern,1
+9,Anne Dodsworth,27/01/1966 00:00,7 Houndstooth Rd.,London,WG2 7LT,Portsmouth,Northern,2
+9,Anne Dodsworth,27/01/1966 00:00,7 Houndstooth Rd.,London,WG2 7LT,Southfield,Northern,3
+9,Anne Dodsworth,27/01/1966 00:00,7 Houndstooth Rd.,London,WG2 7LT,Troy,Northern,4
+9,Anne Dodsworth,27/01/1966 00:00,7 Houndstooth Rd.,London,WG2 7LT,Bloomfield Hills,Northern,5
+9,Anne Dodsworth,27/01/1966 00:00,7 Houndstooth Rd.,London,WG2 7LT,Roseville,Northern,6
+9,Anne Dodsworth,27/01/1966 00:00,7 Houndstooth Rd.,London,WG2 7LT,Minneapolis,Northern,7
